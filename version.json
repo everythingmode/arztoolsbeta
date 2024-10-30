@@ -1,0 +1,9 @@
+{
+    "latest": 228,
+    "version": "1.0.1 Beta",
+    "script_url": "https://github.com/everythingmode/arztoolsbeta/raw/refs/heads/main/arztools.luac",
+    "changes": [
+        "test",
+        "test"
+    ]
+}
